@@ -1,0 +1,19 @@
+{
+  "name": "create-midnight-app-new",
+  "version": "0.1.1",
+  "description": "Scaffold a Midnight dApp project with local network and starter template",
+  "type": "module",
+  "bin": "./bin/index.js",
+  "files": [
+    "bin/",
+    "templates/"
+  ],
+  "keywords": [
+    "midnight",
+    "dapp",
+    "blockchain",
+    "scaffold",
+    "create"
+  ],
+  "license": "MIT"
+}
